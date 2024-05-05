@@ -1,1 +1,1 @@
-# A Java base Agent Framework for Intelligent and Mobile Agents
+# A Java based Agent Framework for Intelligent and Mobile Agents
