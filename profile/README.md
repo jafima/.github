@@ -7,7 +7,7 @@ JAFIMA, a framework that supports the development of intelligent and mobile agen
 <img width="468" alt="image" src="https://github.com/jafima/.github/assets/5785842/32ae61fa-9952-492b-99a1-fe6699b0d623">
 
 # References
-1. An application framework for intelligent and mobile agents. Kendall, E.A., Krishna, P.M., Suresh, C.B. and Pathak, C.V.,ACM Computing Surveys (CSUR), 32(1es), pp.20-es. 2000.
-1. Implementing Application Frameworks: Object-Oriented Frameworks at Work, Kendall, E.A., Krishna, P.M., Pathak, C.V. and Suresh, C.B.,  Wiley · Jan, 1999.
-1. Implementing Application Frameworks: Object-Oriented Frameworks at Work, Kendall, E.A., Krishna, P.M., Pathak, C.V. and Suresh, C.B.,  Patterns of intelligent and mobile agents. In Proceedings of the second international conference on Autonomous agents (pp. 92-99). May,1998.
-1. The layered agent pattern language. In Proceedings of the Conference on Pattern Languages of Programs. Kendall, E.A., Pathak, C.V., Krishna, P.M. and Suresh, C.B., September, 1997. 
+1. An application framework for intelligent and mobile agents. Kendall, E.A., Krishna, P.M., Suresh, C.B. and Pathak, C.V.,ACM Computing Surveys (CSUR), 32(1es), pp.20-es. 2000.[PDF](https://dl.acm.org/doi/pdf/10.1145/351936.351956)
+1. Implementing Application Frameworks: Object-Oriented Frameworks at Work, Kendall, E.A., Krishna, P.M., Pathak, C.V. and Suresh, C.B.,  Wiley · Jan, 1999.[Book}(https://dl.acm.org/doi/book/10.5555/347304)
+1. Patterns of intelligent and mobile agents. In Proceedings of the second international conference on Autonomous agents (pp. 92-99). May,1998. [PDF](https://dl.acm.org/doi/pdf/10.1145/280765.280781)
+1. The layered agent pattern language. In Proceedings of the Conference on Pattern Languages of Programs. Kendall, E.A., Pathak, C.V., Krishna, P.M. and Suresh, C.B., September, 1997. [PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f8befd577429bc6853ba591257b5bfb456694790)
